@@ -1,2 +1,1 @@
-# competitive-programming
-My competitive programming solutions and practice problems.
+# COMPETETIVE-PROGRAMMING-CLASS-WORK-
